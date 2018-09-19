@@ -1,4 +1,3 @@
 # Git_ClassRoomGhz
 
-Salut toi
-Salut moi
+Salut Toi Oupa
